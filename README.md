@@ -1,0 +1,1 @@
+Olá, estou iniciando em python, criei esse simples programa e gostaria de ajuda para torná-lo mais limpo pois tem vários 'ifs' por exemplo. É uma espécie de jogo onde o usuário tem que adivinhar um número de 1 a 100 aleatorizado pelo programa(mais detalhes nos comentários do código) como estou iniciando não tem front-end. É um programa bem simples
